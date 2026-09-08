@@ -1,29 +1,278 @@
-<h1 align="center">Hi 👋, I'm Niraj</h1>
-<h3 align="center">👋 Hey, I'm Niraj! 🎓 Master's student at Trier University 🧠 NLP • LLMs • Data Science 🛠️ Learning by building</h3>
+<!-- ======================= HEADER ======================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj1920-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="niraj1920-cloud" /> </p>
+<h1 align="center">
+  👋 Hi, I'm Niraj Shinde
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niraj1920-cloud" alt="niraj1920-cloud" /></a> </p>
+<h3 align="center">
+  🎓 Master's Student @ Trier University · 🤖 AI/ML Enthusiast · 🧠 NLP & LLMs · 📊 Data Science
+</h3>
 
-- 🌱 I’m currently learning **AI and Data Science**
-
-- 👨‍💻 All of my projects are available at [https://github.com/niraj1920-cloud](https://github.com/niraj1920-cloud)
-
-- 💬 Ask me about **Machine Learning,**
-
-- 📫 How to reach me **niraj.shinde619@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niraj shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niraj shinde" height="30" width="40" /></a>
-<a href="https://instagram.com/niraj.shinde42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niraj.shinde42" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/niraj1920-cloud">
+    <img src="https://komarev.com/ghpvc/?username=niraj1920-cloud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/niraj1920-cloud?tab=followers">
+    <img src="https://img.shields.io/github/followers/niraj1920-cloud?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/niraj1920-cloud?tab=repositories">
+    <img src="https://img.shields.io/github/stars/niraj1920-cloud?label=Stars&style=flat&logo=github" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niraj1920-cloud&show_icons=true&locale=en&layout=compact" alt="niraj1920-cloud" /></p>
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niraj1920-cloud&show_icons=true&locale=en" alt="niraj1920-cloud" /></p>
+I'm a **Master's student at Trier University** with a strong interest in building intelligent, data-driven applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niraj1920-cloud&" alt="niraj1920-cloud" /></p>
+My main interests are:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Natural Language Processing
+* ✨ Large Language Models
+* 📊 Data Science & Data Analysis
+* 🐍 Python Development
+* 🔬 Experimentation & Research
+
+I enjoy turning ideas into practical projects and continuously learning new technologies through **building, experimenting, and solving real-world problems**.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* 🧠 Exploring **Natural Language Processing**
+* 🤖 Learning more about **Large Language Models**
+* 📊 Building **Machine Learning & Data Science projects**
+* 🔬 Exploring research-oriented ML problems
+* 🛠️ Improving my software engineering and deployment skills
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🌐 Web & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,vue" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ☁️ Cloud & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,docker" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niraj1920-cloud&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1920-cloud&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=niraj1920-cloud&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj1920-cloud&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niraj1920-cloud&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+# ⭐ GitHub Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/niraj1920-cloud?label=Largest%20Repo&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/commit-activity/y/niraj1920-cloud?label=Yearly%20Commit%20Activity&style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/github/last-commit/niraj1920-cloud/niraj1920-cloud?label=Last%20Profile%20Update&style=for-the-badge&logo=github" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 Machine Learning Projects
+
+A collection of machine learning experiments covering:
+
+* Data preprocessing
+* Feature engineering
+* Regression
+* Classification
+* Model evaluation
+* Hyperparameter tuning
+
+🔗 **[View Projects →](https://github.com/niraj1920-cloud?tab=repositories&q=machine-learning)**
+
+</td>
+
+<td width="50%">
+
+### 🧠 NLP & LLM Projects
+
+Exploring natural language processing through:
+
+* Text classification
+* Text representation
+* NLP pipelines
+* Transformers
+* LLM experiments
+* Text generation
+
+🔗 **[View Projects →](https://github.com/niraj1920-cloud?tab=repositories&q=nlp)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 Data Science Projects
+
+Projects involving:
+
+* Data analysis
+* Visualization
+* Statistical analysis
+* Exploratory data analysis
+* Predictive modeling
+
+🔗 **[View Projects →](https://github.com/niraj1920-cloud?tab=repositories&q=data-science)**
+
+</td>
+
+<td width="50%">
+
+### 🌐 Software & Web Projects
+
+Applications built using:
+
+* Python
+* Flask
+* Vue
+* MySQL
+* MongoDB
+
+🔗 **[View Projects →](https://github.com/niraj1920-cloud?tab=repositories)**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Artificial Intelligence       ███████████████░░░░░
+Machine Learning              ███████████████░░░░░
+Natural Language Processing   █████████████░░░░░░░
+Large Language Models         ███████████░░░░░░░░░
+Deep Learning                 ███████████░░░░░░░░░
+MLOps                         ████████░░░░░░░░░░░░
+```
+
+---
+
+# 🎯 My Goals
+
+* 🔬 Contribute to interesting AI/ML research
+* 🤖 Build practical NLP & LLM applications
+* 🌍 Work on real-world machine learning problems
+* 💻 Become a stronger ML/AI engineer
+* 🤝 Collaborate on open-source projects
+* 📚 Keep learning and experimenting
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:niraj.shinde619@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/niraj-shinde/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/niraj1920-cloud">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/niraj.shinde42">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Building • Learning • Experimenting • Improving 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting in my repositories, consider giving it a star!
+</p>
