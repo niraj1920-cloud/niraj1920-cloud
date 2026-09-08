@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Niraj+Shinde;AI%2FML+%26+NLP+Enthusiast;Master's+Student+%40+Trier+University;Always+Building+%2C+Learning+%2C+Experimenting" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Niraj+Shinde;AI%2FML+%26+NLP+Enthusiast;Master's+Student+%40+Trier+University;Learning+%2C+Experimenting" alt="Typing SVG" />
 
 <p>
   🎓 Master's Student @ Trier University · 🤖 AI/ML Enthusiast · 🧠 NLP & LLMs · 📊 Data Science
@@ -156,25 +156,6 @@ Apps built with Python, Flask, Vue, MySQL and MongoDB.
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/niraj1920-cloud">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=niraj1920-cloud&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=86400"
-      alt="Niraj's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/niraj1920-cloud">
-    <img
-      width="35%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1920-cloud&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400"
-      alt="Niraj's Top Languages"
-    />
-  </a>
-</div>
-
 <br/>
 
 ## 🔥 Contribution Streak
@@ -187,17 +168,6 @@ Apps built with Python, Flask, Vue, MySQL and MongoDB.
 </div>
 
 <br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <a href="https://github.com/niraj1920-cloud">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=niraj1920-cloud&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
-      alt="Niraj's GitHub Contribution Activity"
-    />
-  </a>
-</div>
 
 <br/>
 
