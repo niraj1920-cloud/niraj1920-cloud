@@ -49,7 +49,7 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
@@ -93,8 +93,16 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niraj1920-cloud&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1920-cloud&layout=compact&langs_count=8&hide_border=true" />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=niraj1920-cloud&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+    alt="Niraj's GitHub Stats"
+  />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1920-cloud&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400"
+    alt="Niraj's Top Languages"
+  />
 </p>
 
 ---
@@ -102,7 +110,10 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=niraj1920-cloud&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=niraj1920-cloud&hide_border=true"
+    alt="Niraj's GitHub Streak"
+  />
 </p>
 
 ---
@@ -110,25 +121,10 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj1920-cloud&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niraj1920-cloud&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-# ⭐ GitHub Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/niraj1920-cloud?label=Largest%20Repo&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/commit-activity/y/niraj1920-cloud?label=Yearly%20Commit%20Activity&style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/github/last-commit/niraj1920-cloud/niraj1920-cloud?label=Last%20Profile%20Update&style=for-the-badge&logo=github" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=niraj1920-cloud&theme=github-compact&hide_border=true&area=true"
+    alt="Niraj's Contribution Graph"
+  />
 </p>
 
 ---
@@ -140,9 +136,9 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 
 <td width="50%">
 
-### 🤖 Machine Learning Projects
+### 🤖 Machine Learning
 
-A collection of machine learning experiments covering:
+Machine learning projects covering:
 
 * Data preprocessing
 * Feature engineering
@@ -157,7 +153,7 @@ A collection of machine learning experiments covering:
 
 <td width="50%">
 
-### 🧠 NLP & LLM Projects
+### 🧠 NLP & LLMs
 
 Exploring natural language processing through:
 
@@ -178,7 +174,7 @@ Exploring natural language processing through:
 
 <td width="50%">
 
-### 📊 Data Science Projects
+### 📊 Data Science
 
 Projects involving:
 
@@ -194,7 +190,7 @@ Projects involving:
 
 <td width="50%">
 
-### 🌐 Software & Web Projects
+### 🌐 Software & Web
 
 Applications built using:
 
@@ -215,14 +211,16 @@ Applications built using:
 
 # 📚 Currently Learning
 
-```text
-Artificial Intelligence       ███████████████░░░░░
-Machine Learning              ███████████████░░░░░
-Natural Language Processing   █████████████░░░░░░░
-Large Language Models         ███████████░░░░░░░░░
-Deep Learning                 ███████████░░░░░░░░░
-MLOps                         ████████░░░░░░░░░░░░
-```
+<p align="center">
+
+🤖 <b>Artificial Intelligence</b>
+🧠 <b>Natural Language Processing</b>
+✨ <b>Large Language Models</b>
+🔥 <b>Deep Learning</b>
+📊 <b>Machine Learning</b>
+⚙️ <b>MLOps</b>
+
+</p>
 
 ---
 
@@ -257,14 +255,6 @@ MLOps                         ████████░░░░░░░░�
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-</p>
-
----
-
-# 💡 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
 
 ---
