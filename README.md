@@ -245,7 +245,7 @@ MLOps                         ████████░░░░░░░░�
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/niraj-shinde/">
+<a href="https://www.linkedin.com/in/niraj-shinde-3a02b71b0/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
