@@ -180,7 +180,7 @@ Apps built with Python, Flask, Vue, MySQL and MongoDB.
 <img src="https://img.shields.io/badge/NLP-1a1b26?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/LLMs-1a1b26?style=for-the-badge&logo=openai&logoColor=7AA2F7" />
 <img src="https://img.shields.io/badge/Deep%20Learning-1a1b26?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-<img src="https://img.shields.io/badge/MLOps-1a1b26?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Data Science-1a1b26?style=for-the-badge&logo=docker&logoColor=2496ED" />
 
 </div>
 
